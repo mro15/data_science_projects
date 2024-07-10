@@ -1,0 +1,10 @@
+jupyterlab
+pandas
+numpy
+matplotlib
+openpyxl
+pyarrow
+seaborn
+plotly
+chart_studio
+cufflinks
